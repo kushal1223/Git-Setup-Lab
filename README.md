@@ -1,3 +1,3 @@
 # Homework 3
-###Part I: Learning Git
+<h3>Part I: Learning Git:
 
