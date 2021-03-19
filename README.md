@@ -1,3 +1,3 @@
 # Homework 3
-Hello!
-Hello GitHub!
+###Part I: Learning Git
+
